@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547311568242",
+    "project_id": "foodtrip-a9f15",
+    "storage_bucket": "foodtrip-a9f15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547311568242:android:d3b8dacef63ffa3cd289eb",
+        "android_client_info": {
+          "package_name": "com.imcc.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547311568242-h200ht4drefbv6fccko6varcoktg591j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrxDKAkXzV66DQGOJcUA7Ndpi-z4MuEdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547311568242-h200ht4drefbv6fccko6varcoktg591j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
